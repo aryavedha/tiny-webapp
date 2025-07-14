@@ -25,13 +25,13 @@ tiny-webapp/
 ├── index.html
 └── WEB-INF/web.xml
 
-mkdir -p tiny-webapp/src/main/java/com/example
-mkdir -p tiny-webapp/src/main/webapp/WEB-INF
-cd tiny-webapp
-touch pom.xml
-touch src/main/java/com/example/HelloServlet.java
-touch src/main/webapp/WEB-INF/web.xml
-touch src/main/webapp/index.html
+- mkdir -p tiny-webapp/src/main/java/com/example
+- mkdir -p tiny-webapp/src/main/webapp/WEB-INF
+- cd tiny-webapp
+- touch pom.xml
+- touch src/main/java/com/example/HelloServlet.java
+- touch src/main/webapp/WEB-INF/web.xml
+- touch src/main/webapp/index.html
 
 
 
