@@ -15,15 +15,15 @@ A minimal Java 17 web application using Servlet API 5.0 and built with Maven. De
 
 ## Project Structure
 
-tiny-webapp/
-├── pom.xml
-└── src/
-└── main/
-├── java/
-│ └── com/example/HelloServlet.java
-└── webapp/
-├── index.html
-└── WEB-INF/web.xml
+- tiny-webapp/
+- ├── pom.xml
+- └── src/
+- └── main/
+- ├── java/
+- │ └── com/example/HelloServlet.java
+- └── webapp/
+- ├── index.html
+- └── WEB-INF/web.xml
 
 - mkdir -p tiny-webapp/src/main/java/com/example
 - mkdir -p tiny-webapp/src/main/webapp/WEB-INF
