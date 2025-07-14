@@ -12,7 +12,15 @@ A minimal Java 17 web application using Servlet API 5.0 and built with Maven. De
 - Simple "Hello, World!" endpoint at `/hello`
 
 ---
+---
 
+## Requirements
+
+- Java 17+
+- Maven 3.6+
+- Apache Tomcat 10.0+ (Jakarta EE 9 compatible)
+
+---
 ## Project Structure
 
 - tiny-webapp/
@@ -25,37 +33,13 @@ A minimal Java 17 web application using Servlet API 5.0 and built with Maven. De
 - ├── index.html
 - └── WEB-INF/web.xml
 
-- mkdir -p tiny-webapp/src/main/java/com/example
-- mkdir -p tiny-webapp/src/main/webapp/WEB-INF
-- cd tiny-webapp
-- touch pom.xml
-- touch src/main/java/com/example/HelloServlet.java
-- touch src/main/webapp/WEB-INF/web.xml
-- touch src/main/webapp/index.html
-
-
-
-
-
-
 ---
-
-## Requirements
-
-- Java 17+
-- Maven 3.6+
-- Apache Tomcat 10.0+ (Jakarta EE 9 compatible)
-
----
-
 ## Build Instructions
 
 1. Clone the repo or create the folder structure manually.
 2. Navigate to the project root:
 
 ```bash
-
-
 cd tiny-webapp
 
 Build the WAR file:
