@@ -4,7 +4,7 @@ A minimal Java 17 web application using Servlet API 5.0 and built with Maven. De
 
 ---
 
-## 🚀 Features
+## Features
 
 - Java 17 compatible
 - Jakarta Servlet API 5.0
@@ -13,7 +13,7 @@ A minimal Java 17 web application using Servlet API 5.0 and built with Maven. De
 
 ---
 
-## 🧱 Project Structure
+## Project Structure
 
 tiny-webapp/
 ├── pom.xml
@@ -28,7 +28,7 @@ tiny-webapp/
 
 ---
 
-## 🔧 Requirements
+## Requirements
 
 - Java 17+
 - Maven 3.6+
@@ -36,7 +36,7 @@ tiny-webapp/
 
 ---
 
-## 🛠️ Build Instructions
+## Build Instructions
 
 1. Clone the repo or create the folder structure manually.
 2. Navigate to the project root:
