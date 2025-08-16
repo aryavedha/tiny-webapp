@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+# tiny-webapp
+tiny-webapp
+=======
 # Tiny Java WebApp (Servlet + Maven)
 
 A minimal Java 17 web application using Servlet API 5.0 and built with Maven. Deployable on Tomcat 10+.
@@ -62,3 +66,4 @@ Make sure to use Tomcat 10 or newer, older versions (like Tomcat 9) will not wor
 
 
 
+>>>>>>> master
